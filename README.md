@@ -71,7 +71,7 @@ This project analyzes user behavior in **Pokémon Go** using customer data from 
 ## 🛠️ How to Run the Code
 
 # Clone the repo
-git clone https://github.com/your-username/pokemon-go-data-insights.git <br>
+git clone https://github.com/xuefeiwang001/PokemonGo-User_Data_Driven_Insights.git <br>
 cd pokemon-go-data-insights
 
 # Install necessary libraries
@@ -105,6 +105,6 @@ This project is shared under the MIT License.
 
 ## 👩‍💻 Author
 Xuefei Wang
-📘 MSc in Data Analytics and AI
-🔍 Driven to transform raw data into strategic insights that lead to real impact.
+📘 MSc in Data Analytics and AI <br>
+🔍 Driven to transform raw data into strategic insights that lead to real impact. <br>
 📧 [xuefei.wang001@qq.com]
