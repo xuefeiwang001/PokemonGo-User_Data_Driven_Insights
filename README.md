@@ -104,7 +104,7 @@ This project is shared under the MIT License.
 ---
 
 ## 👩‍💻 Author
-Xuefei Wang
+Xuefei Wang <br>
 📘 MSc in Data Analytics and AI <br>
 🔍 Driven to transform raw data into strategic insights that lead to real impact. <br>
 📧 [xuefei.wang001@qq.com]
