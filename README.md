@@ -74,7 +74,7 @@ This project analyzes user behavior in **Pokémon Go** using customer data from 
 git clone https://github.com/your-username/pokemon-go-data-insights.git <br>
 cd pokemon-go-data-insights
 
-# Install necessary libraries (if required)
+# Install necessary libraries
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 # Run in your preferred Python IDE or Jupyter
